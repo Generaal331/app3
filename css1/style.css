@@ -1,0 +1,151 @@
+#mainblok1{
+	margin-left: 600px;
+	margin-top: 50px;
+}
+a:link {
+  text-decoration: none;
+}
+
+.container{
+	background-color: #4287f5;
+}
+
+.registreer{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: #4CAF50;
+  cursor: pointer;
+
+
+}
+
+input[type=email], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=password], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 50%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+
+
+input[type=text], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#blok1{
+	margin-left: 550px;
+	margin-top: 50px;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+#menu{
+	margin-left: 750px;
+}
+
+.header .home{
+	margin-top: 50px;
+}
+
+.container1{
+	background-image: url("../img/gym.jpg");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 100vh;
+    height: auto;
+}
+
+.container2{
+  margin-left: 550px;
+  margin-top: 50px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#statblock{
+  border: 1px solid red;
+  background-color: #0f6cff;
+  background-color:rgba(255,0,0,0.3);
+  margin-left: 500px;
+  width: 900px;
+  text-align: center;
+}
+
